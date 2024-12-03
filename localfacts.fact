@@ -2,3 +2,7 @@
 package = samba
 service = smb
 state = enabled
+[localfacts]
+package = samba
+service = smb02
+state = enabled01
